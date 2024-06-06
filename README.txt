@@ -290,7 +290,7 @@ documentation file.
 20240523185938
 
 
-2024-06-60
+2024-06-06
 Created GITHUB Account
 I created the github repository and push the code on to the github account.
 I authenticated from the my github accoint to push the code.
