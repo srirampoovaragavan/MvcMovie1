@@ -25,7 +25,7 @@ public static class SeedData
                     Title = "hobbit 3",
                     ReleaseDate = DateTime.Parse("2016-2-12"),
                     Genre = "WAR",
-                    Rating = "U",
+                    Rating = "S",
                     Price = 7.99M
                 },
                 new Movie
@@ -49,7 +49,7 @@ public static class SeedData
                     Title = "Rio 2",
                     ReleaseDate = DateTime.Parse("2013-4-15"),
                     Genre = "Western",
-                    Rating = "R",
+                    Rating = "A",
                     Price = 3.99M
                 },
                 new Movie
@@ -57,7 +57,7 @@ public static class SeedData
                     Title = "Munna boy  Mbbs",
                     ReleaseDate = DateTime.Parse("2004-1-29"),
                     Genre = "Comedy",
-                    Rating = "R",
+                    Rating = "S",
                     Price = 4.79M
                 }
             );
